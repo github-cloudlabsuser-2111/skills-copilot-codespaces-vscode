@@ -9,7 +9,7 @@
       }
     },
     "location": {
-      "type": "string",
+      "type": "string",c
       "defaultValue": "[resourceGroup().location]",
       "metadata": {
         "description": "Location for the storage account"

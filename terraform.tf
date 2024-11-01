@@ -5,7 +5,7 @@ provider "azurerm" {
 
 # Define variables
 variable "storage_account_name" {
-  description = "Name of the storage account"
+  description = "Name of the storage account"c
   type        = string
 }
 
